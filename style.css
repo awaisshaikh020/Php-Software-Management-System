@@ -1,0 +1,37 @@
+.top-header {
+    background-color: #4b5320;
+    padding-bottom: 55px;
+}
+
+.logo img {
+    height: 150px;
+}
+
+.main-heading h1 {
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+.main-heading p {
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+img.card-img-top {
+    height: 15rem;
+}
+
+.login {
+    background-image: url(../project/img/login-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 143px;
+}
+
+label.form-label2 {
+    margin-bottom: 0.5rem;
+    font-size: 19.3px;
+    color: white;
+}
+
